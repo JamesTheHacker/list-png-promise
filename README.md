@@ -1,5 +1,7 @@
-list-png
-========
+list-png-promise
+================
+
+![](https://nodei.co/npm/list-png-promise.png?downloads=true&downloadRank=true&stars=true)
 
 List all PNG image files in a given directory
 

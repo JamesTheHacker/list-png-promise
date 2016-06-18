@@ -1,6 +1,6 @@
 {
   "name": "list-png-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeJS module for listing all PNG images within a given directory :)",
   "main": "list-png-promise.js",
   "scripts": {
@@ -12,7 +12,10 @@
     "png",
     "image"
   ],
-  "github": "https://github.com/JamesTheHacker/list-png-promise",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesTheHacker/list-png-promise.git"
+  },
   "author": "James Jeffery",
   "license": "ISC"
 }
