@@ -13,7 +13,7 @@ Install
 Usage
 -----
 
-    let listpng = require('list-png')
+    let listpng = require('list-png-promise')
 
     listpng('/home/james/photos')
     .then(function(files) {
