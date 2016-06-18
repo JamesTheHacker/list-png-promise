@@ -1,6 +1,6 @@
 {
   "name": "list-png-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A NodeJS module for listing all PNG images within a given directory :)",
   "main": "list-png-promise.js",
   "scripts": {

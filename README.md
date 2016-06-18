@@ -8,7 +8,7 @@ List all PNG image files in a given directory
 Install
 -------
 
-    npm install list-png --save
+    npm install list-png-promise --save
 
 Usage
 -----
